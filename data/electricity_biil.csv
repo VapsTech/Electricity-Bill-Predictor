@@ -1,0 +1,21 @@
+Usage,Number of Days,Usage per day,Charge,Read Type,Average Temperature
+896,31,28.9,231.65 ,Normal Read,54.2
+941,29,32.45,242.07 ,Normal Read,44.2
+1140,31,36.77,288.26 ,Normal Read,37.1
+1205,31,38.87,303.33 ,Normal Read,33.4
+997,31,32.16,255.08 ,Normal Read,38.3
+934,33,28.3,240.46 ,Normal Read,41.7
+544,29,18.76,149.98 ,Normal Read,55.3
+467,28,16.68,132.10 ,Normal Read,65
+402,30,13.4,115.74 ,Normal Read,72.2
+440,32,13.75,124.10 ,Normal Read,75.6
+482,29,16.62,125.09 ,Normal Read,70.5
+565,33,17.12,139.92 ,Normal Read,61.4
+571,31,18.42,161.13 ,Normal Read,54.1
+708,29,24.41,194.12 ,Normal Read,41.8
+925,31,29.84,246.00 ,Normal Read,36.7
+1225,34,36.03,323.78 ,Normal Read,35.3
+931,33,28.21,225.94 ,Normal Read,44.4
+678,29,23.38,170.99 ,Normal Read,53.9
+509,28,18.18,134.29 ,Normal Read,62.7
+75,6,12.5,21.04 ,Normal Read,69.1
