@@ -1,0 +1,4 @@
+skicit-learn
+numpy
+pandas
+matplotlib
