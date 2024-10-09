@@ -7,6 +7,6 @@ Machine Learning model to predict electricity bill using linear regression given
 - Evaluation metrics to assess model performance.
 
 ## Technical Information
-Programming Language: Python3
-Libraries: Scikit-learn, NumPy, Panda, Matplotlib
+- Programming Language: Python3
+- Libraries: Scikit-learn, NumPy, Panda, Matplotlib
 
